@@ -85,7 +85,7 @@ Let's break this down into major steps
 
 # Architecture Overview
 
-![Cloud Architecture](https://github.com/saket-karajagi/helloheart/blob/main/cloud_architecture.jpg?raw=true)
+![Cloud Architecture](https://github.com/skrgi/helloheart/blob/main/cloud_architecture.jpg?raw=true)
 
 ### Amazon MWAA (Managed Workflows for Apache Airflow):
 - Orchestrates the workflow of the data pipeline
